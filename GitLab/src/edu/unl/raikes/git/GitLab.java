@@ -6,7 +6,9 @@ public class GitLab {
         // TODO Auto-generated constructor stub
     }
     public static void main(String args[]) {
-        System.out.print("This is a lesson on git");
+        System.out.println("This is a lesson on git");
+        GitLabHelper helper = new GitLabHelper("Shruti and Natalia", "Seth");
+        helper.PrintWelcomeMessage();
     }
 
 }
