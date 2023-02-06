@@ -10,7 +10,6 @@ public class GitLabHelper {
     }
 
     public void PrintWelcomeMessage() {
-        System.out.printf("This is a lesson on git made by: %s",
-                Arrays.toString(persons));
+        System.out.printf("Whopper whopper whopper whopper single double tripple whopper");
     }
 }
